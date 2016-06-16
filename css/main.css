@@ -1,0 +1,9 @@
+body {
+	background-color: teal;
+}
+
+@media screen and (max-width: 960px) and (min-width: 715px) {
+	body {
+		background-color: #4ca6a6;
+	}
+}
